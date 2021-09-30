@@ -1,3 +1,8 @@
+; My RSG Script
+; Author:   onvo
+; Edited by SLTRR, DesktopFolder, Peej, and others
+; Edited by Relacibo
+
 #NoEnv
 SetWorkingDir %A_ScriptDir%
 
